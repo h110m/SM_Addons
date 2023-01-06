@@ -1,0 +1,9 @@
+{
+  "addons": [
+    {
+      "id": "6f999781-6b66-476c-a25a-e38916b9a538",
+      "name": "Basic Addon",
+      "desc": "Does nothing | Just for testing"
+    }
+  ]
+}
